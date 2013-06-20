@@ -1,0 +1,11 @@
+msgid "Send"
+msgstr "送信"
+
+msgid "Reply"
+msgstr "返信"
+
+msgid "Forward"
+msgstr "転送"
+
+msgid "Delete"
+msgstr "削除"

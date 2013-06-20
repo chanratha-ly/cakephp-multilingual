@@ -1,0 +1,11 @@
+msgid "Send"
+msgstr "ផ្ញើរ"
+
+msgid "Reply"
+msgstr "ឆ្លើយតប"
+
+msgid "Forward"
+msgstr "ផ្ញើរបន្ត"
+
+msgid "Delete"
+msgstr "លុបចេញ"
